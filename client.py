@@ -1,6 +1,5 @@
 import pygame
 from network import Network
-from PIL import Image
 
 
 pygame.font.init()
